@@ -1,0 +1,28 @@
+{
+  "name": "@andersaloof/next-step",
+  "description": "Steps an integer by a specified amount (+ or -), within a range from 0 to max, wrapping when the new value exceeds the range.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~4.9.1"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Anders S. Øfsdahl <anders@aloof.no> (http://github.com/andersaloof)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andersaloof/next-step"
+  },
+  "bugs": {
+    "url": "https://github.com/andersaloof/next-step/issues"
+  },
+  "keywords": [
+    "next",
+    "step",
+    "prev"
+  ]
+}
